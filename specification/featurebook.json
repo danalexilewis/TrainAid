@@ -1,0 +1,19 @@
+{
+  "modelVersion": "0.0.1",
+  "title": "Resourceful Specification",
+  "version": "0.0.1",
+  "authors": [
+    {
+      "firstName": "Daniel",
+      "lastName": "Lewis",
+      "email": "dan.lewis@enspiral.com"
+    }
+  ],
+  "contributors": [
+    {
+      "firstName": "Mikey",
+      "lastName": "Dinosour",
+      "email": "--"
+    }
+  ]
+}
